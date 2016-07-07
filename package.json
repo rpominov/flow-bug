@@ -1,0 +1,13 @@
+{
+  "name": "",
+  "version": "0.0.0",
+  "scripts": {
+    "flow": "flow",
+  },
+  "private": true,
+  "dependencies": {
+  },
+  "devDependencies": {
+    "flow-bin": "0.27.0",
+  },
+}

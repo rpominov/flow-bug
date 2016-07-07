@@ -1,0 +1,12 @@
+[ignore]
+
+[include]
+
+[libs]
+
+[options]
+munge_underscores=true
+esproposal.class_instance_fields=enable
+esproposal.class_static_fields=enable
+module.name_mapper='^\(components\|router\|store\)/\(.*\)$' -> '<PROJECT_ROOT>/app/\1/\2'
+
