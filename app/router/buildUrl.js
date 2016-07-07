@@ -1,3 +1,3 @@
 // @flow
 
-import type {OrderStatus} from 'router/routes/myShop'
+// import type {OrderStatus} from 'router/routes/myShop'
